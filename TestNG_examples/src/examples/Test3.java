@@ -35,6 +35,7 @@ public class Test3 {
   @AfterClass
   public void afterClass() {
 	  System.out.println("Method in after class");
+	  System.out.println("Fine this is a new change");
   }
 
 }
