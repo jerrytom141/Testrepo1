@@ -17,8 +17,7 @@ public class DPExample {
 		      new Object[] { 3, "Varun" },
 		      
 		      
-		      
-		      new Object[] { 4, "Sarabjeet" },
+		       new Object[] { 4, "Sarabjeet" },
 		    };
   }
 }
