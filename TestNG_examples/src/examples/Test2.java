@@ -31,5 +31,7 @@ public class Test2 {
   public void afterClass() {
 	  System.out.println("Method in after class");
   }
+  
+  
 
 }
